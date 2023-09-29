@@ -1,7 +1,7 @@
 # Alura Play
 
 > Status do projeto: Concluído
-Projeto realizado durante a Formação: "**PHP Web: crie aplicações web em PHP**" da Alura.
+> Projeto realizado durante a Formação: "**PHP Web: crie aplicações web em PHP**" da Alura.
 
 Neste projeto criamos um pequeno sistema de repositório de vídeos, utilizando Programação Orientado a Objetos com **PDO** e **MySQL**, o projeto foi totalmente moldado utilizando **Arquitetura MVC**.
 
